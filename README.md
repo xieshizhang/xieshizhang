@@ -1,6 +1,6 @@
 ###Hey，I am XIESHIZHANG
 <h3 align="center">A passionate frontend developer from China</h3>  
-- 📫this is my email address<u>vizarroreynalda@gmail.com</u>
+- 📫this is my email address<u>   vizarroreynalda@gmail.com</u>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xieshizhang&label=Profile%20views&color=0e75b6&style=flat" alt="vizarroreynalda@gmail.com" /> </p>
 
 <h3 align="left">Connect with me:</h3>
